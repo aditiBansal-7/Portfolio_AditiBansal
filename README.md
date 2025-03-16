@@ -47,8 +47,13 @@ Below are the previews of different sections of my portfolio:
 ---
 
 
-📬 Contact
-📧 Email: aditi1109.workspace@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/aditi-bansal-a71127284/
-🐙 GitHub: https://github.com/aditiBansal-7
-📊 LeetCode: https://leetcode.com/u/Aditi_Bansal-1109/
+📬 Contact  
+
+📧 Email: aditi1109.workspace@gmail.com  
+
+🔗 LinkedIn: https://www.linkedin.com/in/aditi-bansal-a71127284/  
+
+🐙 GitHub: https://github.com/aditiBansal-7  
+
+📊 LeetCode: https://leetcode.com/u/Aditi_Bansal-1109/  
+
